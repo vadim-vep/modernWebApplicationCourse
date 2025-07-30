@@ -35,3 +35,10 @@ func main() {
 
 
 }
+
+type TemplateData struct {
+	name string
+	Age int
+	Address string
+}
+
